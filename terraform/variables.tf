@@ -13,6 +13,7 @@ variable "clusterName" {
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ###
 =======
 #####
@@ -20,3 +21,6 @@ variable "clusterName" {
 =======
 ##
 >>>>>>> 8110c4135214eceacfbdd0c06574686fdfd450ea
+=======
+##
+>>>>>>> stage
