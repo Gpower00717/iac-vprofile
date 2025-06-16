@@ -10,17 +10,4 @@ variable "clusterName" {
   default     = "vprofile-eks"
 }
 
-<<<<<<< HEAD
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-##
-=======
-####
->>>>>>> stage
-=======
->>>>>>> 0d2001b684dd8d373dd60c808ca9708c66ae64e7
-=======
-####
->>>>>>> stage
