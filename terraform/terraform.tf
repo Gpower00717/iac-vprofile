@@ -32,8 +32,6 @@ terraform {
     region = "us-east-1"
   }
 
-  required_version = "~> 1.14.4"
+  required_version = "~> 1.14.1"
 }
-##
-##
-##
+
